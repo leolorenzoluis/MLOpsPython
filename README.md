@@ -1,7 +1,7 @@
 # MLOps with Azure ML
 
 
-[![Build Status](https://dev.azure.com/customai/DevopsForAI-AML/_apis/build/status/Microsoft.MLOpsPython?branchName=master)](https://dev.azure.com/customai/DevopsForAI-AML/_build/latest?definitionId=25&branchName=master)
+[![Build Status](https://dev.azure.com/luisleo/MachineOps/_apis/build/status/leolorenzoluis.MLOpsPython?branchName=master)](https://dev.azure.com/luisleo/MachineOps/_apis/build/status/leolorenzoluis.MLOpsPython?branchName=master)
 
 ### Author: Praneet Solanki | Richin Jain
 
