@@ -1,7 +1,7 @@
 """
 Copyright (C) Microsoft Corporation. All rights reserved.​
  ​
-Microsoft Corporation (“Microsoft”) grants you a nonexclusive, perpetual,
+Trigger build Microsoft Corporation (“Microsoft”) grants you a nonexclusive, perpetual,
 royalty-free right to use, copy, and modify the software code provided by us
 ("Software Code"). You may not sublicense the Software Code or any use of it
 (except to your affiliates and to vendors to perform work on your behalf)
